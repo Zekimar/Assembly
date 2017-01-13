@@ -1,4 +1,4 @@
-This project is intended for a special version of MIPS designed specifically for the course.
+This project is intended for a special version of MIPS designed specifically for the course, using the Keypad and LED Display Simluator.
 
 found here:
 http://pitt.edu/~jfb42/archive/cs0447/
